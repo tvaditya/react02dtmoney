@@ -11,7 +11,7 @@ createServer({
             return [
                 {
                     id: 1,
-                    title: 'ReactJS Course',
+                    title: 'FrontEnd with React Course',
                     amount: 300,
                     type: 'deposit',
                     category: 'Development',
